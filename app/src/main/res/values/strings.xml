@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="batman">Batman</string>
+    <string name="batmanpower">exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology</string>
+    <string name="flash">Flash</string>
+    <string name="flashpower">super speed, intangibility, superhuman agility</string>
+    <string name="superman">Superman</string>
+    <string name="supermanpower">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="title_activity_botton_navigation">BottonNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
