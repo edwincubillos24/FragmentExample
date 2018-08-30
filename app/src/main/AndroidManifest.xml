@@ -9,13 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"></activity>
-        <activity android:name=".Main2Activity">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity
+            android:name=".BottonNavigationActivity"
+            android:label="@string/title_activity_botton_navigation"></activity>
+        <activity
+            android:name=".NavDrawerActivity"
+            android:label="@string/title_activity_nav_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
 
         </activity>
         <activity
-            android:name=".BottonNavigationActivity"
-            android:label="@string/title_activity_botton_navigation">
+            android:name=".TabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
